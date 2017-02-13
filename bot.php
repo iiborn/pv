@@ -655,7 +655,7 @@ _your block members_
 —-------------------------------
 🔸`4.`*Settings*
 _settings_
-*developer* : [iborn](https://telegram.me/iborn),[ibornbot](https://telegram.me/ibornbot)
+
 ","parse_mode" =>"MARKDOWN",'reply_markup' => array(
         'keyboard' => array(array('broadcast'),array('Help','Members','Blocked Users'),array("Settings")),
         'one_time_keyboard' => true,
